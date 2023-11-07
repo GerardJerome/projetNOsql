@@ -25,3 +25,13 @@ chaque recherche est stocké dans une base redis  (durée de vie 1h)
 #Etape 4 
 
 A chaque recherche on vient vérifier sur l'articles est présent dans redis si oui on le recupère de redis sinon de mongoDB
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+idée de truc en plus  : 
+
+Gestion d'utilisateur 
+Possibliter de supprimer des articles
+Import d'article depuis un fichier texte/csv 
+
